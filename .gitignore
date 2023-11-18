@@ -1,6 +1,6 @@
 *.DS_Store
 
 # directories with too much data: use generators/ to create the data!
-scripts/figureA2/*.h5
-scripts/figureA3/*.h5
-scripts/figureA5/DConvergence*.h5
+scripts/data/figureA2/*.h5
+scripts/data/figureA3/*.h5
+scripts/data/figureA5/DConvergence*.h5
